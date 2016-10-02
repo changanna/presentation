@@ -1,2 +1,2 @@
 # presentation
-slides to be shared
+Here are some slides to be shared
